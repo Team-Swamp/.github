@@ -8,8 +8,8 @@ For now, we only have projects made in Unity and worked with the language c#, bu
 # Highlighted Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=The-Lost-Reel&theme=merko&show_icons=true)](https://github.com/Team-Swamp/The-Lost-Reel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=inner-Thoughts&theme=merko&show_icons=true)](https://github.com/Team-Swamp/Inner-Thoughts)<br>
-[Play: The Lost Reel]()
-[Play: Inner Thoughts]()
+[Play: The Lost Reel](https://baz-geluk9.itch.io/the-lost-reel)<br>
+[Play: Inner Thoughts](https://baz-geluk9.itch.io/inner-thoughts)
 
 ## Tatum (owner)
 [Github](https://github.com/Tatum13)<br>
