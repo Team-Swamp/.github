@@ -12,8 +12,10 @@ For now, we only have projects made in Unity and worked with the language c#, bu
 [Play: Inner Thoughts](https://baz-geluk9.itch.io/inner-thoughts)
 
 ## Tatum (owner)
+[Portfolio](https://www.tatumdevries.dev)<br>
 [Github](https://github.com/Tatum13)<br>
 [Linkedin](https://www.linkedin.com/in/tatum-de-vries-a06080254/)
 ## Bas (owner)
+[Portfolio](https://www.bas-de-reus.nl)<br>
 [Github](https://github.com/bas-boop)<br>
 [Linkedin](https://www.linkedin.com/in/bas-de-reus/)
