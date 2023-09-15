@@ -1,9 +1,8 @@
 # Team Swamp
 
-We started as a small group of 3 developers, but we grew into a big friend group with developers, artists, designers and even musicians.
+We started as a small group of 3 developers but grew into a big friend group with developers, artists, designers, and even musicians.
 
-In this organization we focus on making games with each other. 
-For now, we only have projects made in Unity and worked with the language c#, but we want to expand our knowlegde by trying out new engines and other languages.
+In this organization, we focus on making games with each other. We only have projects made in Unity and worked with the language C#, but we want to expand our knowledge by trying out new engines and other languages.
 
 # Highlighted Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Team-Swamp&repo=The-Lost-Reel&theme=merko&show_icons=true)](https://github.com/Team-Swamp/The-Lost-Reel)
